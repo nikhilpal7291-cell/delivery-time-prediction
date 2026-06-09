@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 import numpy as np
+from sklearn.preprocessing import LabelEncoder
 
 # Load assets
 with open('label_encoders.pkl', 'rb') as f:
