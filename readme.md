@@ -1,7 +1,7 @@
 # Delivery Time Prediction
 
 Live App:
-https://your-app-name.streamlit.app
+https://delivery-time-prediction-zxujpoaarkulqx2qynxmoy.streamlit.app/
 
 GitHub Repository:
-https://github.com/yourusername/delivery-time-prediction
+https://github.com/nikhilpal7291-cell/delivery-time-prediction.git
